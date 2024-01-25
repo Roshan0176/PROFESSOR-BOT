@@ -91,6 +91,7 @@
 <summary><b>Basic Commands</b></summary>
 ```
 start - check bot alive
+ping - pong
 settings - get settings 
 logs - to get the rescent errors
 stats - to get status of files in db.
